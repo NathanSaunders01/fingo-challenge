@@ -149,12 +149,13 @@ nav.footer {
   padding-top: 20px;
   padding-bottom: 30px; }
   .contact-row .contact-form {
-    margin-top: 20px; }
+    margin-top: 30px; }
     .contact-row .contact-form .btn-fingo {
       background: black;
       border: 1px solid white;
       margin-top: 10px; }
   .contact-row p {
+    margin-top: 30px;
     line-height: 1 !important;
     font-size: 0.8vw; }
 
